@@ -27,7 +27,7 @@ const Card = ({ product, className = '' }) => {
       `}
     >
       {/* Image - Reduced height */}
-      <Link to={`/product/${product.id}`} className="block relative overflow-hidden group">
+      <Link  className="block relative overflow-hidden group">
         <div className="aspect-square overflow-hidden bg-gray-50">
           <img 
             src={product.image} 
