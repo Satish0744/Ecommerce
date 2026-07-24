@@ -2,7 +2,7 @@ export const menCategories = {
   topwear: {
     id: 'topwear',
     name: 'Topwear',
-    image: '/src/assets/Menimg1.png',
+    image: 'https://i.pinimg.com/originals/c5/09/e4/c509e4ba4842c831aa60eb3a3b0aba50.jpg',
     subcategories: [
       { id: 'tshirts', name: 'T-Shirts' },
       { id: 'casual-shirts', name: 'Casual Shirts' },
@@ -91,7 +91,7 @@ export const menCategories = {
   bottomwear: {
     id: 'bottomwear',
     name: 'Bottomwear',
-    image: '/src/assets/Menimg2.png',
+    image: 'https://i.pinimg.com/originals/92/1e/93/921e93d7a9cf44af2c94cf79e263f91c.jpg',
     subcategories: [
       { id: 'jeans', name: 'Jeans' },
       { id: 'casual-trousers', name: 'Casual Trousers' },
@@ -159,7 +159,7 @@ export const menCategories = {
   festiveWear: {
     id: 'festive-wear',
     name: 'Indian & Festive Wear',
-    image: '/src/assets/Menimg3.png',
+    image: 'https://i.pinimg.com/originals/0d/e9/7d/0de97d6ddf203ca2f1f9aee83ec18efc.jpg',
     subcategories: [
       { id: 'kurtas', name: 'Kurtas & Kurta Sets' },
       { id: 'sherwanis', name: 'Sherwanis' },
