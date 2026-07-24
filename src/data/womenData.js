@@ -2,7 +2,7 @@ export const womenCategories = {
   fusionwear: {
     id: 'fusionwear',
     name: 'Fusion Wear',
-    image: '/src/assets/fusionimg.png',
+    image: 'https://houseofmajisha.com/cdn/shop/files/brocade_crop_vest_fusion_dress_from_house_of_majisha.jpg?v=1752661762&width=1066',
     subcategories: [
       { id: 'kurtas-suits', name: 'Kurtas & Suits' },
       { id: 'kurtis-tunics', name: 'Kurtis, Tunics & Tops' },
@@ -129,7 +129,7 @@ export const womenCategories = {
   jewellery: {
     id: 'jewellery',
     name: 'Jewellery',
-    image: '/src/assets/jewelryimg.jpg',
+    image: 'https://i.pinimg.com/originals/9f/04/f3/9f04f36ab336cc562381a07293611dfc.jpg',
     subcategories: [
       { id: 'fashion-jewellery', name: 'Fashion Jewellery' },
       { id: 'fine-jewellery', name: 'Fine Jewellery' },
@@ -197,7 +197,7 @@ export const womenCategories = {
   westernwear: {
     id: 'westernwear',
     name: 'Western Wear',
-    image: '/src/assets/westernimg.png',
+    image: 'https://globusfashion.com/media/catalog/product/cache/f1f9bbd7abaf42201591ee7b6d24feb9/i/f/ifk8ecomwdrs2425b-green-1.jpg',
     subcategories: [
       { id: 'dresses', name: 'Dresses' },
       { id: 'tops', name: 'Tops' },
