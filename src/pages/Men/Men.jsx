@@ -132,10 +132,6 @@ const Men = () => {
                     </motion.p>
                   </motion.div>
 
-                  {/* Badge */}
-                  <div className="absolute top-3 left-3 bg-purple-600 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-lg">
-                    {category.subcategories.length} Categories
-                  </div>
 
                   {/* Floating Cart Icon */}
                   <motion.div 
