@@ -131,10 +131,6 @@ const Women = () => {
                     </motion.p>
                   </motion.div>
 
-                  <div className="absolute top-3 left-3 bg-purple-600 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full shadow-lg">
-                    {category.subcategories.length} Categories
-                  </div>
-
                   <motion.div 
                     className="absolute bottom-3 right-3 bg-white/90 backdrop-blur-sm rounded-full p-2 shadow-md opacity-0 group-hover:opacity-100 transition-all duration-300"
                     whileHover={{ scale: 1.1 }}
