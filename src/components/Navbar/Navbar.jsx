@@ -47,7 +47,7 @@ const Navbar = () => {
               className="flex items-center cursor-pointer"
               onClick={() => handleNavigation('/')}
             >
-             <img src="/src/assets/logo.png" alt="logo" 
+             <img src="https://img.freepik.com/free-vector/flat-design-clothing-store-logo-design_23-2149496415.jpg?w=2000" alt="logo" 
                className="w-auto h-auto max-h-14 object-contain"
              />
             </motion.div>
