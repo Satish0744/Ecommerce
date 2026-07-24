@@ -243,7 +243,7 @@ const Hero = () => {
               {/* Main Image */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img 
-                  src="/src/assets/main-img.jpg" 
+                  src="https://c1.peakpx.com/wallpaper/573/909/315/store-clothes-clothing-line-fashion-wallpaper.jpg" 
                   alt="Premium Clothing Collection"
                   className="w-full h-auto object-cover aspect-[4/3]"
                 />
