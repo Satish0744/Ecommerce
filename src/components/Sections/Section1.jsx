@@ -57,7 +57,7 @@ const Section1 = () => {
             onClick={() => handleViewAllClick(`/${activeCategory}`)}
             className="group flex items-center space-x-2 mt-4 sm:mt-0 text-black font-semibold hover:text-purple-600 transition-colors cursor-pointer"
           >
-            <span>View All</span>
+           
             <FaArrowRight className="group-hover:translate-x-1 transition-transform duration-200" />
           </motion.button>
         </div>
